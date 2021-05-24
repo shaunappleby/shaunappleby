@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shaunappleby
 - 👀 I’m interested in AIX & RHEL
 - 🌱 I’m currently learning OpenShift
-- 💞️ I’m looking to collaborate on OpenShift, OpenStack, Absible etc.
+- 💞️ I’m looking to collaborate on OpenShift, OpenStack, Ansible etc.
 - 📫 How to reach me shaun.appleby@scc.com
 
 <!---
